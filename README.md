@@ -4,7 +4,7 @@
 
 ### Summary
 
-I'm an engineer seeking to leverage my automation, documentation and cyber security skill sets. 
+I'm an IT engineer seeking to leverage my automation, documentation and cyber security skill sets. 
 
 **Top Skills:**
 
