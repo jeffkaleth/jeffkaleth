@@ -46,7 +46,7 @@ Thanks for visiting!
 
 [LinkedIn](https://www.linkedin.com/in/jeffkaleth/)
 
-[YouTube: zen.theater](https://www.youtube.com/@southsidedean-tech)
+[YouTube: zen.theater](https://www.youtube.com/@zentheater)
 
-[YouTube: techadventures](https://www.youtube.com/@southsidedean-tech)
+[YouTube: techadventures](https://www.youtube.com/@zentheater)
 
