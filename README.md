@@ -10,8 +10,10 @@ I'm an IT engineer seeking to leverage my automation, documentation and cyber se
 
 - Automation (Ansible)
 - Cloud (Azure, AWS)
+- Dark Web (Zerofox)
 - Documenation (Confluence, Markdown, VS Code)
-- Incident Response (Crowdstrike, Devo, Zero Fox)
+- Endpoint Security (Crowdstrike Falcon, Identity)
+- Incident Response
 - Linux (Kali, Redhat, Ubuntu)
 - Purple Team (Kali Purple)
 - Red Team (Kali Linux)
