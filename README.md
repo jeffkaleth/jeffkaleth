@@ -8,7 +8,7 @@ I'm an IT engineer seeking to leverage my automation, documentation and cyber se
 
 **Top Skills:**
 
-- Automation (Ansible)
+- Automation (Ansible, Cortex XSAOR)
 - Cloud (Azure, AWS)
 - Documenation (Confluence, Markdown, VS Code)
 - Incident Response (Crowdstrike, Devo, Zero Fox)
